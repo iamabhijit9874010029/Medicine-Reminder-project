@@ -1,0 +1,4 @@
+C:\Users\abhij\AppData\Local\Android\Sdk\system-images -API 33 path
+
+
+C:\Users\abhij\.gradle
